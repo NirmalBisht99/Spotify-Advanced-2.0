@@ -6,8 +6,8 @@ This project introduces innovative features to improve discoverability, interact
 
 
 📝 Introduction
-Spotify is one of the most popular music streaming services globally, but even the best platforms have room for improvement. The goal of Spotify Advanced 2.0 is to enhance the existing Spotify experience with innovative features that make it easier to find music, interact with friends, and personalize your listening experience in a way that Spotify doesn't currently offer.
 
+Spotify is one of the most popular music streaming services globally, but even the best platforms have room for improvement. The goal of Spotify Advanced 2.0 is to enhance the existing Spotify experience with innovative features that make it easier to find music, interact with friends, and personalize your listening experience in a way that Spotify doesn't currently offer.
 This app introduces new functionalities that enhance discoverability, provide social features, and offer a more personalized experience.
 
 🎯 Key Features
