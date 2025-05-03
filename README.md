@@ -2,7 +2,7 @@
 
 An enhanced, reimagined version of the Spotify web app — built for the Level Up: Vibe Coding Hackathon 2025.
 This project introduces innovative features to improve discoverability, interactivity, and personalization for music lovers.
-“Reimagining the everyday music experience, one feature at a time.”
+
 
 
 📝 Introduction
