@@ -1,4 +1,4 @@
-export const getAdmin = (req, res) => {
+export const createSong = (req, res) => {
   res.send("Admin route is working!");
 }
 
