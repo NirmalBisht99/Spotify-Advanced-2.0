@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getAllAlbums } from '../controller/album.controller';
+import { getAllSongs , getFeaturedSongs , getMadeForYouSongs , getTrendingSongs } from '../controller/album.controller.js';
 import {protectRoute, requireAdmin} from '../middleware/auth.middleware.js';
 
 const router = Router();
