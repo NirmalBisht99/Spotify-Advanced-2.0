@@ -5,7 +5,16 @@ import { Router } from 'express';
 
 const router = Router();
 
-router.get('/', protectRoute , requireAdmin , createSong);
+router.use(protectRoute, requireAdmin);
+
+router.get('/check', checkAdmin);
+
+router.post('/songs',  createSong);
+router.delete('/songs/:idx', deleteSong);
   
-  export default router;
+
+router.post('/albums' , createAlbum);
+router.delete('/songs/:idx', deleteAlbum);
+  
+export default router;
   
